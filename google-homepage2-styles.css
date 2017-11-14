@@ -18,10 +18,13 @@
 		border-width: 10px;
 }
 
-ul li a { 
+ul li a 	 { 
 	text-decoration: none; 
 }
 
+.header ul {
+	font-size: 15px;
+}
 .header-left {
 		top: 10px;
 		float: left;
